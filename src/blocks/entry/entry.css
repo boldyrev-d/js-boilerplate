@@ -1,0 +1,11 @@
+body {
+  color: #fff;
+}
+
+.js-entry {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-shadow: 3px 3px 0px #b06a57;
+}
